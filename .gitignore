@@ -1,0 +1,47 @@
+.DS_Store
+*.pyc
+__pycache__/
+
+# Local dependency/build output
+.venv/
+venv/
+node_modules/
+dist/
+build/
+target/
+.build/
+*.tsbuildinfo
+
+# Model weights, caches, generated audio, and bulky experiments
+models/
+cache/
+checkpoints/
+*.bin
+*.gguf
+*.ggml
+*.onnx
+*.pt
+*.pth
+*.safetensors
+*.wav
+*.mp3
+*.m4a
+*.aiff
+*.dmg
+*.zip
+*.tar
+*.tar.gz
+
+# Local voice/reference sample folders stay on disk but out of Git.
+Jarvis Online Voice Samples/
+Jarvis Online Voice Finds/
+
+# Upstream OpenJarvis clone is kept separately. This repo tracks our overlay
+# via patches/ and the surrounding PC services/scripts.
+OpenJarvis/
+
+# Runtime logs and local secrets.
+*.log
+*.env
+cloud-keys.env
+secrets/

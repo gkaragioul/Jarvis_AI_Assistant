@@ -1,0 +1,10 @@
+frontend/src-tauri/Info.plist
+frontend/src/lib/defaultVoiceProfile.ts
+frontend/src/lib/voiceprint.ts
+src/openjarvis/memory/__init__.py
+src/openjarvis/memory/personal.py
+src/openjarvis/speech/chatterbox_tts.py
+src/openjarvis/speech/effects.py
+src/openjarvis/speech/macos_say_tts.py
+src/openjarvis/speech/speaker_verification.py
+tests/memory/test_personal_memory.py

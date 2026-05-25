@@ -1,0 +1,30 @@
+I am here, Sir.
+Yes, Sir.
+I hear you, Sir.
+That makes sense, Sir.
+I am doing well, Sir.
+Let us keep this crisp and natural.
+I can stay conversational.
+Tell me what you want to build next.
+That is a good direction.
+I would approach it in two steps.
+Understood, Sir.
+Of course, Sir.
+The system is online.
+The connection to the PC is live.
+The local model is responding.
+I will keep the answer brief.
+That sounds reasonable.
+I am following you.
+Give me a moment to check.
+The result is ready.
+There is a better way to wire this.
+I would not use that path.
+The bottleneck is the voice runtime.
+The model answered quickly.
+The audio pipeline needs to be faster.
+Let us test the next step.
+I can explain the tradeoff.
+That should feel more natural.
+I will not call you George.
+I will address you as Sir.
