@@ -19,3 +19,4 @@ Important:
 - Do not use macOS voices.
 - Do not add any non-Derek runtime voice.
 - Do not wire a new TTS engine into Jarvis until it passes latency and voice checks.
+- Do not redistribute voice samples, generated datasets, checkpoints, or model artifacts unless you have the rights required by the applicable licenses and voice permissions.

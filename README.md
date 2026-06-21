@@ -39,6 +39,12 @@ Version `0.3` captures the first coherent remote Jarvis setup:
 
 The repo intentionally excludes generated audio, voice samples, model weights, build products, caches, virtual environments, and the upstream OpenJarvis clone. Those can be large, duplicated, or private runtime artifacts. The active Mac OpenJarvis changes are captured as a patch snapshot in `patches/`.
 
+## License
+
+Original Jarvis_AI_Assistant files are licensed under the [MIT License](LICENSE).
+
+The MIT License does not relicense upstream projects or third-party artifacts. OpenJarvis patch snapshots in `patches/` may include Apache-2.0 OpenJarvis context or derived material, and referenced tools, models, checkpoints, voice samples, generated audio, and runtimes remain under their own terms. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and [patches/README.md](patches/README.md).
+
 ## Current Runtime Defaults
 
 - Mac API: `http://127.0.0.1:8000`

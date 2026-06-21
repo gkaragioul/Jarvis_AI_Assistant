@@ -7,3 +7,5 @@ X:\Jarvis\python\cpython-3.12-windows-x86_64-none\python.exe X:\Jarvis\fast-dere
 ```
 
 The full dataset should be generated only after the current Derek service is stable and warmed. The generated audio is training material for the future fast runtime model, not canned response content.
+
+Generated audio, datasets, checkpoints, and model artifacts are not covered by the repository MIT license. Keep them private unless you have the rights required to distribute them.

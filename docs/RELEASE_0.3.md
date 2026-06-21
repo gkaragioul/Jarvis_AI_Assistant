@@ -14,6 +14,7 @@ Version `0.3` is the first tracked private snapshot of the local Jarvis system.
 
 - The upstream OpenJarvis clone is not vendored into this repo.
 - Voice/model artifacts are intentionally ignored to avoid hoarding large or generated files.
+- Original Jarvis_AI_Assistant repo files are MIT licensed, while OpenJarvis-derived patch material and third-party runtime artifacts remain under their own licenses.
 - Runtime services should continue to use the PC over Tailscale for core inference and speech work.
 
 ## Tag Description
